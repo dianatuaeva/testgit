@@ -1,0 +1,7 @@
+E:\21_2018\GIT1\GIT1\bin\Debug\GIT1.exe.config
+E:\21_2018\GIT1\GIT1\bin\Debug\GIT1.exe
+E:\21_2018\GIT1\GIT1\bin\Debug\GIT1.pdb
+E:\21_2018\GIT1\GIT1\obj\Debug\GIT1.csprojAssemblyReference.cache
+E:\21_2018\GIT1\GIT1\obj\Debug\GIT1.csproj.CoreCompileInputs.cache
+E:\21_2018\GIT1\GIT1\obj\Debug\GIT1.exe
+E:\21_2018\GIT1\GIT1\obj\Debug\GIT1.pdb

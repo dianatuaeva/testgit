@@ -12,6 +12,7 @@ namespace GIT1
 
         {
             Console.WriteLine("privetiki kotiki");
+            Console.WriteLine("poka solnishki");
         
         }
     }
